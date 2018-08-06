@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homiversity</string>
+
+    <!-- Name of courses -->
+    <string name="ceutical">Pharmaceutical Chemistry</string>
+    <string name="bio">Bio Chemistry</string>
+    <string name="pharma">Pharmacology</string>
+    <string name="instro">Instrumental Analysis</string>
+    <string name="practice">Pharmacy Practice</string>
+    <string name="immu">Immunology</string>
+    <string name="kinetics">PharmacoKinetics</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">About</string>
+</resources>

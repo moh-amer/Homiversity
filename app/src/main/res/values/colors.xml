@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00695C</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="colorAccent">#0277BD</color>
+    <color name="colorTextColorWhite">#FFFFFF</color>
+    <color name="colorMainBackground">#B2DFDB</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGreyBackGround">#e0e0e0</color>
+
+    <!-- main buttons color -->
+
+    <color name="colorBtnCeutical">#1565C0</color>
+    <color name="colorBtnBio">#1565C0</color>
+    <color name="colorBtnInstro">#1565C0</color>
+    <color name="colorBtnPharma">#1565C0</color>
+    <color name="colorBtnKinetics">#1565C0</color>
+    <color name="colorBtnImmu">#1565C0</color>
+    <color name="colorBtnPractice">#1565C0</color>
+
+</resources>
